@@ -1,0 +1,35 @@
+SENG 265 -- SUMMER 2022
+ASSIGNMENT #3 EVALUATION
+========================
+
+Student name:   Gabriel Maryshev
+Student netlink id:  gmaryshev
+
+-----
+(1) Files submitted to the correct folder and named appropriately; compiles
+without errors or warnings.
+
+- Yes, the submitted files are correct, and the code
+  compiles and runs successfully without errors or warnings.
+
+-----
+(2) Tests passed (and further comments)
+
+- All tests passed. Great work.
+
+-----
+(3) Code formatting and structure:
+
+Positive aspects:
+
+- Good formatting and structure of the code that facilitates reading
+  and understanding.
+
+- Good naming conventions for functions and variables.
+
+Improvement opportunities:
+
+-----
+
+GRADE: A+
+MARKS: 100 
